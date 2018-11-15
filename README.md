@@ -1,1 +1,1 @@
-# Convergencia-y-Divergencia
+# Convergencia y Divergencia
